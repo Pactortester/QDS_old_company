@@ -28,7 +28,7 @@ class BmKsTest(MyTestCase):
         # self.driver.find_element()
         dl.dengLu()
         time.sleep(1)
-        #self.driver.find_element_by_css_selector("#com-navbar > div > ul > li:nth-child(1) > a").click()
+        # self.driver.find_element_by_css_selector("#com-navbar > div > ul > li:nth-child(1) > a").click()
         """新版首页"""
         # self.driver.find_element_by_css_selector("body > div.section-banner > div.public-navbar > div > ul > li:nth-child(1) > a").click()
 
@@ -58,7 +58,7 @@ class BmKsTest(MyTestCase):
             "body > div.section-product.width1200 > dl > dd > div.cont-serviceItems > table > tbody > tr > td.td-cont >"
             " ul > li.list.active").click()
 
-        ##total-price
+        # #total-price
 
         for a in self.driver.find_elements_by_css_selector("#total-price"):
             print("费用总计:"+a.text)
