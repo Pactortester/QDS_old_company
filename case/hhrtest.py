@@ -160,8 +160,11 @@ class HhrTest(MyTestCase):
         self.driver.find_element_by_xpath("//*[@id=\"overseastype\"]/label[1]").click()
         self.driver.find_element_by_xpath("//*[@id=\"personalCenter2-rightContainer\"]/div/div[1]/div/div[3]/div/div/div/div/table[1]/tbody[1]/tr[1]/td[2]/dl/dt/input").send_keys("文思海辉技术有限公司{}".format(random.randint(1,1000)))
         self.driver.find_element_by_xpath("//*[@id=\"ssq\"]").click()
+        time.sleep(2)
         self.driver.find_element_by_xpath("//*[@id=\"companylistrative\"]/div/div[2]/div[1]/dl[1]/dd/span[1]").click()
+        time.sleep(2)
         self.driver.find_element_by_xpath("//*[@id=\"companylistrative\"]/div/div[2]/div[2]/dl[2]/dd/span[1]").click()
+        time.sleep(1)
 
         print("申请人信息填写成功!")
 
