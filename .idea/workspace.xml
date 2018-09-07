@@ -2,9 +2,84 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4045b1ed-0b5c-43da-8b53-9fbc7a687bac" name="Default Changelist" comment="8.31pycharm_old_company">
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_22-01-21_test_msdj.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_22-02-23_test_mszp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_22-03-23_test_rjbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_22-04-24_test_rjbz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_22-05-26_test_rjzr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_22-06-31_test_wzdj.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_22-07-36_test_wzzp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_22-08-37_test_gnsb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_22-09-38_test_mfsb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_22-11-18_test_fmzl_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_22-12-25_test_fmzl_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_22-13-29_test_fmzl_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_22-14-37_test_fmzl_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_22-15-41_test_fmzl_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_22-16-50_test_fmzl_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_22-17-51_test_hhrqdxd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_22-18-38_test_hhrsbzc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_22-21-07_dzgltest.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_22-23-49_test_hwgs_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_22-24-42_test_hwgs_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_22-25-38_test_mdl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_22-26-36_test_mg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_22-27-34_test_om.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_22-28-44_test_rb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_22-29-46_test_xg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_22-30-48_test_yd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_22-31-56_test_sbss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_22-32-37_test_nfjn_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_22-33-43_test_nfjn_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_22-34-51_test_zlbg_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_22-35-57_test_zlbg_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_22-37-07_test_zlbg_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_22-38-15_test_zlbh_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_22-39-23_test_zlbh_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_22-40-39_test_zldb_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_22-41-49_test_zldb_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_22-42-55_test_zlxg_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_22-44-04_test_zlxg_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_22-45-09_rjzztest.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_22-46-12_test_rjzz_j.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_22-48-44_test_sbbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_22-49-53_test_sbkz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_22-50-52_test_sbxk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_22-51-52_test_sbxz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_22-52-54_test_sbzr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_22-54-22_test_sbcs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_22-55-28_test_sbwx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_22-56-30_test_sbyy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_22-57-42_test_sbbh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_22-58-44_test_sbcsdb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_22-59-46_test_sbdb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_23-02-54_test_cpwgbz_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_23-04-09_test_cpwgbz_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_23-05-23_test_cpwgbz_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_23-06-40_test_cpwgdb_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_23-07-49_test_cpwgdb_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_23-09-08_test_cpwgdb_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_23-10-10_test_guibz_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_23-11-20_test_guibz_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_23-12-23_test_guibz_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_23-13-29_test_guidb_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_23-14-39_test_guidb_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_23-15-43_test_guidb_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_23-16-46_test_nfjn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_23-17-53_test_syzlbz_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_23-18-55_test_syzlbz_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_23-20-04_test_syzlbz_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_23-21-06_test_syzldb_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_23-22-17_test_syzldb_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_23-23-31_test_syzldb_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_23-24-36_test_zlbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_23-25-36_test_zlbh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_23-26-35_test_zldb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_23-27-33_test_zljs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_23-28-32_test_zlxg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/2018-09-06_23-29-45_test_znzz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2018-09-06_22-00-00_report.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/case/hhrtest.py" beforeDir="false" afterPath="$PROJECT_DIR$/case/hhrtest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/HTMLTestReportCN.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/HTMLTestReportCN.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log/2018-09-06.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/2018-09-06.log" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -150,8 +225,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/runAllTestCases.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="144" column="60" selection-start-line="144" selection-start-column="60" selection-end-line="144" selection-end-column="60" />
+            <state relative-caret-position="271">
+              <caret line="143" column="4" selection-start-line="143" selection-start-column="4" selection-end-line="143" selection-end-column="4" />
               <folding>
                 <element signature="e#15#24#0" expanded="true" />
               </folding>
@@ -198,7 +273,7 @@
         <entry file="file://$PROJECT_DIR$/case/qtzltest.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="386">
-              <caret line="101" column="23" lean-forward="true" selection-start-line="101" selection-start-column="23" selection-end-line="101" selection-end-column="23" />
+              <caret line="101" column="23" selection-start-line="101" selection-start-column="23" selection-end-line="101" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -207,7 +282,7 @@
         <entry file="file://$PROJECT_DIR$/case/zlywtest.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-367">
-              <caret line="654" column="44" lean-forward="true" selection-start-line="654" selection-start-column="44" selection-end-line="654" selection-end-column="44" />
+              <caret line="654" column="44" selection-start-line="654" selection-start-column="44" selection-end-line="654" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -216,7 +291,7 @@
         <entry file="file://$PROJECT_DIR$/report/2018-09-06_12-00-03_report.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -225,7 +300,7 @@
         <entry file="file://$PROJECT_DIR$/case/hhrtest.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="480">
-              <caret line="167" lean-forward="true" selection-start-line="167" selection-end-line="167" />
+              <caret line="167" selection-start-line="167" selection-end-line="167" />
             </state>
           </provider>
         </entry>
@@ -246,7 +321,7 @@
         <entry file="file://$PROJECT_DIR$/config/HTMLTestReportCN.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-16">
-              <caret line="198" column="28" lean-forward="true" selection-start-line="198" selection-start-column="28" selection-end-line="198" selection-end-column="28" />
+              <caret line="198" column="28" selection-start-line="198" selection-start-column="28" selection-end-line="198" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -318,7 +393,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="1912" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -570,19 +645,18 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.501634" side_tool="true" weight="0.124200426" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.498366" visible="true" weight="0.1652452" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.498366" visible="true" weight="0.1652452" />
       <window_info id="Structure" order="2" sideWeight="0.5005429" side_tool="true" weight="0.16596417" />
-      <window_info anchor="bottom" id="Terminal" order="0" weight="0.31813246" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.50162864" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5010661" side_tool="true" weight="0.3355049" />
       <window_info anchor="bottom" id="Python Console" order="2" weight="0.32899022" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Version Control" order="5" weight="0.32899022" />
-      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.4989339" visible="true" weight="0.3355049" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.4989339" weight="0.3355049" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -947,42 +1021,42 @@
     <entry file="file://$PROJECT_DIR$/case/qtzltest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="386">
-          <caret line="101" column="23" lean-forward="true" selection-start-line="101" selection-start-column="23" selection-end-line="101" selection-end-column="23" />
+          <caret line="101" column="23" selection-start-line="101" selection-start-column="23" selection-end-line="101" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/case/zlywtest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-367">
-          <caret line="654" column="44" lean-forward="true" selection-start-line="654" selection-start-column="44" selection-end-line="654" selection-end-column="44" />
+          <caret line="654" column="44" selection-start-line="654" selection-start-column="44" selection-end-line="654" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/report/2018-09-06_12-00-03_report.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/case/hhrtest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
-          <caret line="167" lean-forward="true" selection-start-line="167" selection-end-line="167" />
+          <caret line="167" selection-start-line="167" selection-end-line="167" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/HTMLTestReportCN.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-16">
-          <caret line="198" column="28" lean-forward="true" selection-start-line="198" selection-start-column="28" selection-end-line="198" selection-end-column="28" />
+          <caret line="198" column="28" selection-start-line="198" selection-start-column="28" selection-end-line="198" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/runAllTestCases.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="144" column="60" selection-start-line="144" selection-start-column="60" selection-end-line="144" selection-end-column="60" />
+        <state relative-caret-position="271">
+          <caret line="143" column="4" selection-start-line="143" selection-start-column="4" selection-end-line="143" selection-end-column="4" />
           <folding>
             <element signature="e#15#24#0" expanded="true" />
           </folding>
